@@ -75,15 +75,6 @@ We can see this behaivour here with the following snipet:
 
 > So using the right tools to do the right things, that's the key.
 
-## The hidden truth for javascript developers, compilation errors! 🔐
-Typescript is awesome, it makes such a difference coding with all the goodies of javascript 
-and the security of the variable types.
- 
-That's why I migrated all my javascript projects to it, and I'm very happy with that.
-So I tried using **parseInt()** with the float inside... and typescript throw a compilation error!
-
-![imagen](https://user-images.githubusercontent.com/43274508/152205257-0439fdff-446b-48e7-86ea-36148e2c4b1e.png)
-
 How amazing is that? 
 
 I hope you enjoy this experiment!🧪
